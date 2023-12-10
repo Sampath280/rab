@@ -1,0 +1,3 @@
+C:\Users\v-sapujari\source\repos\BlazorApp3\bin\staticwebapp.config.json
+C:\Users\v-sapujari\source\repos\BlazorApp3\bin\swa-cli.config.json
+C:\Users\v-sapujari\source\repos\BlazorApp3\bin\web.config
